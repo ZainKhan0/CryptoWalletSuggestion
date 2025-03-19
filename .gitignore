@@ -1,4 +1,20 @@
-# Environment variables
+# Ignore virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore Logs
+logs/
+*.log
+
+# Ignore Environment Variables
 .env
-.env.local
-.env.*.local
