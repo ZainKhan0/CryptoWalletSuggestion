@@ -1,5 +1,0 @@
-requests
-smtplib3
-jsonlib
-time
-email
